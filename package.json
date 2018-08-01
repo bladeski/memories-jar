@@ -1,10 +1,10 @@
 {
-    "name": "developer-challenge",
+    "name": "memories-jar",
     "version": "0.1.0",
-    "description": "Refactored work of winning submission of npower 2013 Developer Challenge.",
-    "keywords": ["developer", "challenge", "energy"],
-    "repository": "https://github.com/bladeski/developer-challenge.git",
-    "homepage": "https://github.com/bladeski/developer-challenge",
+    "description": "The Memories Jar app.",
+    "keywords": ["memories", "jar", "quotes"],
+    "repository": "https://github.com/bladeski/memories-jar.git",
+    "homepage": "https://github.com/bladeski/memories-jar",
     "author": "Jonathan Blades <jonathan@flatlinemedia.co.uk>",
     "scripts": {
         "start": "node ./src/bin/www"
